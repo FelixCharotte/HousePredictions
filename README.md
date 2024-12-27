@@ -1,4 +1,4 @@
-# HousePredictions using Linear Regression deployed on AWS using Flask Python Server
+# HousePredictions Website
 
 ![](BHP_website.PNG)
 
