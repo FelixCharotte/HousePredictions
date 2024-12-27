@@ -16,7 +16,7 @@ This data science project series walks through step by step process of how to bu
 
 
 ### **Website Link**  
-It was deployed on the following AWS EC2 link you can take look if it's still available : [Real Estate Price Prediction Website](http://ec2-52-65-223-207.ap-southeast-2.compute.amazonaws.com/) (Do not hesitate to let me know if it's not running)
+It was deployed on the following AWS EC2 link you can take look if it's still available : [Real Estate Price Prediction Website](http://ec2-52-65-223-207.ap-southeast-2.compute.amazonaws.com/) 
 
 # Deployment to Cloud (AWS EC2)
 
