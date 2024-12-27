@@ -15,9 +15,6 @@ This data science project series walks through step by step process of how to bu
 7. HTML/CSS/Javascript for UI
 
 
-### **Website Link**  
-It was deployed on the following AWS EC2 link you can take look if it's still available : [Real Estate Price Prediction Website](http://ec2-52-65-223-207.ap-southeast-2.compute.amazonaws.com/) 
-
 # Deployment to Cloud (AWS EC2)
 
 Follow these quick steps to deploy the Real Estate Price Prediction website on AWS:
@@ -43,5 +40,6 @@ Follow these quick steps to deploy the Real Estate Price Prediction website on A
      ```
 
 5. **Visit the Website:**  
-   - Access your site using the public URL of the EC2 instance. 
+   - Access your site using the public URL of the EC2 instance.
+   - Here is the website link : [Real Estate Price Prediction Website](http://ec2-52-65-223-207.ap-southeast-2.compute.amazonaws.com/) 
 
