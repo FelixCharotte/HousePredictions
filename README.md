@@ -2,6 +2,8 @@
 
 ![](BHP_website.png)
 
+### **Project overview**
+
 This data science project series walks through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. Technology and tools wise this project covers,
 
 1. Python
@@ -11,6 +13,10 @@ This data science project series walks through step by step process of how to bu
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
+
+
+### **Website Link**  
+Visit the live project here: [Real Estate Price Prediction Website](http://ec2-52-65-223-207.ap-southeast-2.compute.amazonaws.com/)
 
 # Deployment to Cloud (AWS EC2)
 
@@ -39,5 +45,3 @@ Follow these quick steps to deploy the Real Estate Price Prediction website on A
 5. **Visit the Website:**  
    - Access your site using the public URL of the EC2 instance.
 
-### **Website Link**  
-Visit the live project here: [Real Estate Price Prediction Website](http://ec2-52-65-223-207.ap-southeast-2.compute.amazonaws.com/)
