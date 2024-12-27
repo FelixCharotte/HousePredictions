@@ -1,4 +1,4 @@
-# HousePredictions Website
+# House Price Predictions Website on AWS
 
 ![](BHP_website.PNG)
 
